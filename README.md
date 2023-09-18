@@ -1,1 +1,1 @@
-live link: https://maddening-end.surge.sh/about
+live link: https://maddening-end.surge.sh/
